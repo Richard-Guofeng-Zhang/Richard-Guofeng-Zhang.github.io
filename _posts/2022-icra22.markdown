@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Deep-CNN based Robotic Multi-Class Under-Canopy Weed Control in Precision Farming"
+image: /images/robot_icra2022.png
+categories: research
+author: "Guofeng Zhang"
+venue: "International Conference on Robotics and Automation (ICRA)"
+paper: https://ieeexplore.ieee.org/abstract/document/9812240
+bibtex: /bibtex/robot_icra2022.txt
+authors: <a herf="https://scholar.google.com/citations?user=LPwbf4kAAAAJ">Yayun Du</a>, <strong>Guofeng Zhang *</strong>, Darren Tsang, and <a herf="https://scholar.google.com/citations?user=s3tbPWMAAAAJ">Mohammad Khalid Jawed</a>

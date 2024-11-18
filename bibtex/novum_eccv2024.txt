@@ -1,0 +1,10 @@
+@InProceedings{novum,
+author="Jesslen, Artur
+and Zhang, Guofeng
+and Wang, Angtian
+and Ma, Wufei
+and Yuille, Alan
+and Kortylewski, Adam",
+title="NOVUM: Neural Object Volumes for Robust Object Classification",
+booktitle="Computer Vision -- ECCV 2024",
+year="2025"}

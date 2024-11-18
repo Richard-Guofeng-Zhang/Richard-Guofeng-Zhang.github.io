@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <title>{{ site.name }}</title>
+
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:80%;vertical-align:middle">
+              <h1>
+                Guofeng Zhang
+              </h1>
+              <p>I am currently a 2nd year PhD student in the department of <a href="https://www.cs.jhu.edu/">Computer Science</a>, <a href="https://www.jhu.edu/">Johns Hopkins University</a>.
+                I am a member of <a href="https://ccvl.jhu.edu/">CCVL</a>, advised by <a href="https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships">Bloomberg Distinguished Professor</a>
+                <a href="https://www.cs.jhu.edu/~ayuille/"> Dr. Alan Yuille</a>. My current research focus is on <b>3D vision</b> and <b>robust vision</b>. 
+                Previously, I received my Bachelor degree with a double major in Computer Science and Applied Mathematics from <a href="https://www.ucla.edu/">UCLA</a> in 2023. During my undergraduate years, I spent a good time with prof. <a href="https://web.cs.ucla.edu/~chohsieh/">Cho-Jui Hsieh</a> and prof. <a href="https://www.khalidjawed.com/">M. Khalid Jawed</a>. 
+              </p>
+              <p style="text-align:center">
+                <a href="https://scholar.google.com/citations?user=vl0mzhEAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                Email: zhangguofeng1123@gmail.com &nbsp;
+              </p>
+            </td>
+            <td style="padding:2.5%;width:20%;max-width:20%">
+              <img style="width:100%;max-width:100%" alt="self photo" src="images/zgf.png"/>
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <h2>Selected Publications</h2>
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <td style="padding:0.1%;width:30%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:70%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a>
+              {% endif %}
+              {% if post.project %}
+              / <a href="{{post.project}}">project</a>
+              {% endif %}
+              {% if post.video %}
+              / <a href="{{post.video}}">video</a> 
+              {% endif %}
+              {% if post.zhihu %}
+              / <a href="{{post.zhihu}}">zhihu</a>
+              {% endif %}
+              {% if post.leaderboard %}
+              / <a href="{{post.leaderboard}}">leaderboard</a>
+              {% endif %}
+              {% if post.media_AK %}
+              / <a href="{{post.media_AK}}">media (AK)</a>
+              {% endif %}
+              {% if post.media_MrNeRF %}
+              / <a href="{{post.media_MrNeRF}}">media (MrNeRF)</a>
+              {% endif %}
+              {% if post.bibtex %}
+              / <a href="{{post.bibtex}}">bibtex</a>
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        
+        <br>
+        <br>
+
+         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <h2>Peer Reviewer</h2>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;vertical-align:left">
+              <p>
+                Conference: CVPR, ECCV, NeurIPS, ICLR, AAAI, etc.
+              </p>
+            </td>
+          </tr>
+        </table>
+        
+        <br>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
+

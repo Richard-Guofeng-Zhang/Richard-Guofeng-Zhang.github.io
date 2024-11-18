@@ -1,0 +1,9 @@
+@misc{ma2024imagenet3dgeneralpurposeobjectlevel3d,
+      title={ImageNet3D: Towards General-Purpose Object-Level 3D Understanding}, 
+      author={Wufei Ma and Guofeng Zhang and Qihao Liu and Guanning Zeng  and Letian Zhang and Adam Kortylewski and Yaoyao Liu and Alan Yuille},
+      year={2024},
+      eprint={2406.09613},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.09613}, 
+}

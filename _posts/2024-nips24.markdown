@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding”"
+image: /images/imagenet3d_nips2024.png
+categories: research
+author: "Guofeng Zhang"
+venue: "Advances in Neural Information Processing Systems (NeurIPS, Dataset Track)"
+paper: https://arxiv.org/abs/2406.09613
+bibtex: /bibtex/imagenet3d_nips2024.txt
+authors: <a herf="https://scholar.google.com/citations?user=mYkvHdIAAAAJ">Wufei Ma</a>, <strong>Guofeng Zhang </strong>, <a herf="https://scholar.google.com/citations?hl=en&user=WFl3hH0AAAAJ">Qihao Liu</a>, <a herf="https://scholar.google.com/citations?hl=en&user=SU6ooAQAAAAJ">Guanning Zeng</a>, <a herf="https://scholar.google.com/citations?hl=en&user=tRLUOBIAAAAJ">Adam Kortylewski</a>, <a herf="https://scholar.google.com/citations?hl=en&user=Qi2PSmEAAAAJ">Yaoyao Liu</a>, and <a herf="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a>
