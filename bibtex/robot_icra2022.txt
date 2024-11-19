@@ -1,8 +1,0 @@
-@INPROCEEDINGS{9812240,
-  author={Du, Yayun and Zhang, Guofeng and Tsang, Darren and Jawed, Mohammad Khalid},
-  booktitle={2022 International Conference on Robotics and Automation (ICRA)}, 
-  title={Deep-CNN based Robotic Multi-Class Under-Canopy Weed Control in Precision Farming}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={2273-2279}}
