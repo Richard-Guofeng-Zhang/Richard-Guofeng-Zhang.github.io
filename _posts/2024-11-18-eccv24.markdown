@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NOVUM: Neural Object Volumes for Robust Object Classification"
+date: 2024-11-18 24:00:00 -0000
+image: /images/novum_eccv2024.png
+categories: research
+author: "Guofeng Zhang"
+venue: "The European Conference on Computer Vision (ECCV)"
+paper: https://arxiv.org/abs/2305.14668
+bibtex: /bibtex/novum_eccv2024.txt
+authors: <a herf="https://scholar.google.com/citations?user=fRT8Eg4AAAAJ">Artur Jesslen*</a>, <strong>Guofeng Zhang *</strong>, <a herf="https://scholar.google.com/citations?user=YR7re-cAAAAJ">Angtian Wang</a>, <a herf="https://scholar.google.com/citations?user=mYkvHdIAAAAJ">Wufei Ma</a>, <a herf="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a>, and <a herf="https://scholar.google.com/citations?hl=en&user=tRLUOBIAAAAJ"> Adam Kortylewski</a>
+---
+Robust and fast Classification and 3D-Pose estimation of objects in single-pass.
