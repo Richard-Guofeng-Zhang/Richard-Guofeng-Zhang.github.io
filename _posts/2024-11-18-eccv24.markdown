@@ -2,6 +2,7 @@
 layout: post
 title:  "NOVUM: Neural Object Volumes for Robust Object Classification"
 date: 2024-11-18 24:00:00 -0000
+priority: 2
 image: /images/novum_eccv2024.png
 categories: research
 author: "Guofeng Zhang"

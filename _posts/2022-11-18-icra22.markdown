@@ -2,6 +2,7 @@
 layout: post
 title:  "Deep-CNN based Robotic Multi-Class Under-Canopy Weed Control in Precision Farming"
 date: 2022-11-18 24:00:00 -0000
+priority: 1
 image: /images/robot_icra2022.png
 categories: research
 author: "Guofeng Zhang"

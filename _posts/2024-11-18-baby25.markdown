@@ -2,6 +2,7 @@
 layout: post
 title:  "Development and Validation of Computer Vision for Quantification of Children’s Micro-Activities"
 date: 2024-11-18 24:00:00 -0000
+priority: 4
 image: /images/baby2025.png
 categories: research
 author: "Guofeng Zhang"
