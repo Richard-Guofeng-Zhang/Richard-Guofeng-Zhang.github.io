@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scaling 3D Compositional Models for Robust Classification and Pose Estimation"
-date: 2024-11-15 23:00:00 -0000
+date: 2025-11-15 23:00:00 -0000
 priority: 5
 image: /images/scaling_cvpr2025.png
 categories: research
