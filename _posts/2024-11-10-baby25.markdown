@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Development and Validation of Computer Vision for Quantification of Children’s Micro-Activities"
+title:  "Development and Validation of Computer Vision for Quantification of Children's Micro-Activities"
 date: 2024-11-10 23:00:00 -0000
 priority: 4
 image: /images/baby2025.png
 categories: research
 author: "Guofeng Zhang"
-venue: "Under review, Journal of Exposure Science and Environmental Epidemiology"
+venue: "Under review, Journal of Exposure Science and Environmental Epidemiology, 2025"
 authors: <strong>Guofeng Zhang</strong>, <a herf="https://scholar.google.com/citations?hl=en&user=dKHE3qgAAAAJ">Jiahao Wang</a>, <a herf="https://scholar.google.com/citations?hl=en&user=WFl3hH0AAAAJ">Qihao Liu</a>, <a herf="https://scholar.google.com/citations?user=8aXDeK8AAAAJ">Zhang Yi</a>, <a herf="https://scholar.google.com/citations?hl=en&user=4jdUy5AAAAAJ">Jiawei Peng</a>, <a herf="https://scholar.google.com/citations?hl=en&user=7KZZ91oAAAAJ">Xingrui Wang</a>, <a herf="https://scholar.google.com/citations?hl=en&user=p7QTY-cAAAAJ">Xiaoding Yuan</a>, <a herf="https://scholar.google.com/citations?hl=en&user=muEpEiEAAAAJ">Yin Oscar</a>, <a herf="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a>, <a herf="https://scholar.google.com/citations?hl=en&user=i9tGbsgAAAAJ">Sara Lupolt</a>, and <a herf="https://scholar.google.com/citations?hl=en&user=zhn5rRoAAAAJ">Keeve E. Nachman</a>.
 ---
 New baby-video dataset and 3D keypoints detections of baby in real-world. 
