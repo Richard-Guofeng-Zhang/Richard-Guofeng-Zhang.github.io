@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "X-LRM: X-ray Large Reconstruction Model for Extremely Sparse-View Computed Tomography Recovery in One Second"
+date: 2025-06-15 23:00:00 -0000
+priority: 6
+image: /images/xlrm_3dv2026.png
+categories: research
+author: "Guofeng Zhang"
+venue: " (3DV), 2025"
+paper: https://arxiv.org/pdf/2503.06382
+bibtex: /bibtex/xlrm_3dv2026.txt
+authors: <strong>Guofeng Zhang*</strong>, <a herf="https://scholar.google.com/citations?hl=en&user=_5W6W7oAAAAJ"> Ruyi Zha*</a>, <a herf="https://scholar.google.com/citations?hl=en&user=lOEX3aUAAAAJ">Hao He</a>, <a herf="https://scholar.google.com/citations?hl=en&user=rmX3lvEAAAAJ"> Yixun Liang</a>, <a herf="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a>, <a herf="https://scholar.google.com/citations?hl=en&user=Mq89JAcAAAAJ"> Hongdong Li, and <a herf="https://scholar.google.com/citations?hl=en&user=3YozQwcAAAAJ"> Yuanhao Cai
+---
+A feedforward method and a large-scale dataset for instant CT reconstruction

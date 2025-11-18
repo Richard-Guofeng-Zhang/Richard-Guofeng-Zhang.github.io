@@ -1,0 +1,6 @@
+@article{zhang2025tgt,
+  title={TGT: Text-Grounded Trajectories for Locally Controlled Video Generation},
+  author={Zhang, Guofeng and Wang, Angtian and Fang, Jacob Zhiyuan and Jiang, Liming and Yang, Haotian and Liu, Bo and Yang, Yiding and Chen, Guang and Wen, Longyin and Yuille, Alan and others},
+  journal={arXiv preprint arXiv:2510.15104},
+  year={2025}
+}

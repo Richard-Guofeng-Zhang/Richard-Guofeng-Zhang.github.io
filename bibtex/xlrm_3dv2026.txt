@@ -1,0 +1,6 @@
+@article{zhang2025x,
+  title={X-lrm: X-ray large reconstruction model for extremely sparse-view computed tomography recovery in one second},
+  author={Zhang, Guofeng and Zha, Ruyi and He, Hao and Liang, Yixun and Yuille, Alan and Li, Hongdong and Cai, Yuanhao},
+  journal={arXiv preprint arXiv:2503.06382},
+  year={2025}
+}

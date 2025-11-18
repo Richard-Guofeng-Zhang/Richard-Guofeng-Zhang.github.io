@@ -1,0 +1,8 @@
+@InProceedings{Yuan_2025_ICCV,
+    author    = {Yuan, Xiaoding and Zhang, Guofeng and Kaushik, Prakhar and Jesslen, Artur and Kortylewski, Adam and Yuille, Alan},
+    title     = {Scaling 3D Compositional Models for Robust Classification and Pose Estimation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {6406-6415}
+}
