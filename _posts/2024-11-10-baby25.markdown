@@ -2,7 +2,7 @@
 layout: post
 title:  "Development and evaluation of a computer vision algorithm for quantification of children’s microactivities"
 date: 2024-11-10 23:00:00 -0000
-priority: 4
+priority: 2
 image: /images/baby2025.png
 categories: research
 author: "Guofeng Zhang"
