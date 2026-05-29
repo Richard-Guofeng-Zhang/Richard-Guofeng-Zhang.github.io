@@ -9,6 +9,6 @@ author: "Guofeng Zhang"
 venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings (CVPR findings), 2026"
 paper: https://arxiv.org/abs/2604.22658
 bibtex: /bibtex/pasr_cvpr2026.txt
-authors: <strong>Jiaxin Shi</strong>, <strong>Guofeng Zhang*</strong>, <a href="https://scholar.google.com/citations?user=mYkvHdIAAAAJ">Wufei Ma</a>, <strong>Naifu Liang</strong>, <a href="https://scholar.google.com/citations?hl=en&user=tRLUOBIAAAAJ">Adam Kortylewski</a>, and <a href="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a> <br><small>* Project Lead</small>
+authors: <strong>Jiaxin Shi</strong>, <strong>Guofeng Zhang*</strong>, <a href="https://scholar.google.com/citations?user=mYkvHdIAAAAJ">Wufei Ma</a>, <strong>Naifu Liang</strong>, <a href="https://scholar.google.com/citations?hl=en&user=tRLUOBIAAAAJ">Adam Kortylewski</a>, and <a href="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a> <br><small style="color: red;">* Project Lead</small>
 ---
 A robust 3D shape retrieval framework that uses an interpretable analysis-by-synthesis approach to jointly optimize for object shape and pose by aligning 3D features with a 2D foundation model.
