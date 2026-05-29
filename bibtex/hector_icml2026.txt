@@ -1,0 +1,9 @@
+@misc{zhang2026hectorhybrideditablecompositional,
+      title={HECTOR: Hybrid Editable Compositional Object References for Video Generation}, 
+      author={Guofeng Zhang and Angtian Wang and Jacob Zhiyuan Fang and Liming Jiang and Haotian Yang and Alan Yuille and Chongyang Ma},
+      year={2026},
+      eprint={2603.08850},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.08850}, 
+}

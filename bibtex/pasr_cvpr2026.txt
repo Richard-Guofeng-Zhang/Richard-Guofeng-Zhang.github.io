@@ -1,0 +1,9 @@
+@misc{shi2026pasrposeaware3dshape,
+      title={PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views}, 
+      author={Jiaxin Shi and Guofeng Zhang and Wufei Ma and Naifu Liang and Adam Kortylewski and Alan Yuille},
+      year={2026},
+      eprint={2604.22658},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.22658}, 
+}

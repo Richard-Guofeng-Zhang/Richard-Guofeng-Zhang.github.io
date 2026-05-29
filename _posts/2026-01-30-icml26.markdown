@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HECTOR: Hybrid Editable Compositional Object References for Video Generation"
+date: 2025-09-15 23:00:00 -0000
+priority: 9
+image: /images/hector_icml2026.png
+categories: research
+author: "Guofeng Zhang"
+venue: "International Conference on Machine Learning (ICML), 2026"
+paper: https://arxiv.org/abs/2603.08850
+bibtex: /bibtex/hector_icml2026.txt
+authors: <strong>Guofeng Zhang</strong>, <a herf="https://scholar.google.com/citations?user=YR7re-cAAAAJ">Angtian Wang</a>, <a herf="https://scholar.google.com/citations?hl=en&user=fHWXpq4AAAAJ">Jacob Zhiyuan Fang</a>, <a herf="https://scholar.google.com/citations?hl=en&user=v_D9J7kAAAAJ">Liming Jiang</a>, <a herf="https://scholar.google.com/citations?hl=en&user=LH71RGkAAAAJ">Haotian Yang</a>, <a herf="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Alan Yuille</a>, and <a herf="https://scholar.google.com/citations?hl=en&user=l-ZQfpQAAAAJ">Chongyang Ma</a>
+---
+A video generation pipeline that enables fine-grained, explicit control over individual scene elements by combining static image and dynamic video references with precise spatiotemporal trajectories.
